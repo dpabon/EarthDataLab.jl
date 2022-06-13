@@ -13,7 +13,7 @@ for more information.
 
 ## Example Jupyter Notebooks
 
-You can find some example Jupyter Notebooks using *ESDL.jl* [here](https://github.com/juliadatacubes/esdl-shared/tree/master/notebooks)
+You can find some example Jupyter Notebooks using *ESDL.jl* [here](https://github.com/JuliaDataCubes/ESDLTutorials)
 
 ## Manual Outline
 
